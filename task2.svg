@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="470" viewBox="0 0 1120 470">
+<style>text{font-family:Arial,sans-serif;fill:#202124}.line{stroke:#69737d;stroke-width:12;fill:none;stroke-linecap:round}.node{fill:#69737d}.tag{fill:#1f2937;stroke:#38bdf8;stroke-width:2}.tagtext{font-size:16px;fill:#fff}.label{font-size:20px;font-weight:bold;fill:#4b5563}.title{font-size:23px;font-weight:bold}</style>
+<rect width="1120" height="470" fill="#f8fafc" rx="14"/><text x="32" y="38" class="title">Задание 2 — hotfix с merge request</text>
+<text x="55" y="100" class="label">main</text><path class="line" d="M180 94H1000"/>
+<text x="55" y="230" class="label">develop</text><path class="line" d="M300 94V205Q300 225 325 225H690"/>
+<text x="55" y="360" class="label">hotfix</text><path class="line" d="M570 94V335Q570 355 595 355H820Q850 355 850 325V94"/>
+<g class="node"><circle cx="180" cy="94" r="17"/><circle cx="300" cy="94" r="17"/><circle cx="570" cy="94" r="17"/><circle cx="730" cy="94" r="17"/><circle cx="850" cy="94" r="19" stroke="#fff" stroke-width="7"/><circle cx="1000" cy="94" r="17"/><circle cx="380" cy="225" r="17"/><circle cx="500" cy="225" r="17"/><circle cx="690" cy="225" r="17"/><circle cx="640" cy="355" r="17"/><circle cx="780" cy="355" r="17"/></g>
+<g class="tag"><rect x="130" y="43" width="100" height="28" rx="7"/><rect x="248" y="43" width="105" height="28" rx="7"/><rect x="518" y="43" width="105" height="28" rx="7"/><rect x="680" y="43" width="105" height="28" rx="7"/><rect x="790" y="43" width="120" height="28" rx="7"/><rect x="590" y="374" width="100" height="28" rx="7"/></g>
+<g class="tagtext"><text x="145" y="63">v1.0.0</text><text x="262" y="63">v1.1.0</text><text x="532" y="63">v1.1.1</text><text x="694" y="63">v1.1.2</text><text x="804" y="63">MR-merged</text><text x="605" y="394">MR-456</text></g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="470" viewBox="0 0 1120 470">
+<style>text{font-family:Arial,sans-serif;fill:#202124}.line{stroke:#69737d;stroke-width:12;fill:none;stroke-linecap:round}.node{fill:#69737d}.tag{fill:#1f2937;stroke:#38bdf8;stroke-width:2}.tagtext{font-size:16px;fill:#fff}.label{font-size:20px;font-weight:bold;fill:#4b5563}.title{font-size:23px;font-weight:bold}</style>
+<rect width="1120" height="470" fill="#f8fafc" rx="14"/><text x="32" y="38" class="title">Задание 4 — две feature-ветки</text>
+<text x="50" y="100" class="label">main</text><path class="line" d="M190 94H1000"/>
+<text x="50" y="230" class="label">feature-payment</text><path class="line" d="M300 94V205Q300 225 325 225H800Q830 225 830 195V94"/>
+<text x="50" y="360" class="label">feature-stripe</text><path class="line" d="M420 225V335Q420 355 445 355H650Q680 355 680 325V225"/>
+<g class="node"><circle cx="190" cy="94" r="17"/><circle cx="300" cy="94" r="17"/><circle cx="600" cy="94" r="17"/><circle cx="830" cy="94" r="19" stroke="#fff" stroke-width="7"/><circle cx="1000" cy="94" r="17"/><circle cx="380" cy="225" r="17"/><circle cx="540" cy="225" r="17"/><circle cx="680" cy="225" r="19" stroke="#fff" stroke-width="7"/><circle cx="780" cy="225" r="17"/><circle cx="500" cy="355" r="17"/><circle cx="640" cy="355" r="17"/></g>
+<g class="tag"><rect x="140" y="43" width="65" height="28" rx="7"/><rect x="248" y="43" width="75" height="28" rx="7"/><rect x="550" y="43" width="130" height="28" rx="7"/><rect x="770" y="43" width="120" height="28" rx="7"/><rect x="330" y="244" width="95" height="28" rx="7"/><rect x="620" y="374" width="165" height="28" rx="7"/></g>
+<g class="tagtext"><text x="154" y="63">init</text><text x="262" y="63">setup</text><text x="564" y="63">integration-fix</text><text x="784" y="63">MR-merged</text><text x="345" y="264">MR-101</text><text x="635" y="394">subfeature-merged</text></g>
+</svg>
