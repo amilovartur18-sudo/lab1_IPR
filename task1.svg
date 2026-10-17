@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="340" viewBox="0 0 1120 340">
-<style>text{font-family:Arial,sans-serif;fill:#202124}.line{stroke:#69737d;stroke-width:12;fill:none;stroke-linecap:round}.node{fill:#69737d}.tag{fill:#1f2937;stroke:#38bdf8;stroke-width:2}.tagtext{font-size:16px;fill:#fff}.label{font-size:20px;font-weight:bold;fill:#4b5563}.title{font-size:23px;font-weight:bold}</style>
-<rect width="1120" height="340" fill="#f8fafc" rx="14"/><text x="32" y="38" class="title">Задание 1 — feature branch с merge request</text>
-<text x="55" y="106" class="label">main</text><path class="line" d="M180 100H990"/>
-<text x="55" y="242" class="label">feature</text><path class="line" d="M360 100V210Q360 230 385 230H790Q820 230 820 200V100"/>
-<g class="node"><circle cx="180" cy="100" r="17"/><circle cx="300" cy="100" r="17"/><circle cx="580" cy="100" r="17"/><circle cx="820" cy="100" r="19" stroke="#fff" stroke-width="7"/><circle cx="990" cy="100" r="17"/><circle cx="420" cy="230" r="17"/><circle cx="600" cy="230" r="17"/></g>
-<g class="tag"><rect x="130" y="49" width="100" height="28" rx="7"/><rect x="248" y="49" width="105" height="28" rx="7"/><rect x="520" y="49" width="113" height="28" rx="7"/><rect x="760" y="49" width="120" height="28" rx="7"/><rect x="940" y="49" width="100" height="28" rx="7"/><rect x="370" y="250" width="110" height="28" rx="7"/></g>
-<g class="tagtext"><text x="145" y="69">v1.0.0</text><text x="262" y="69">v1.1.0</text><text x="535" y="69">hotfix-1</text><text x="774" y="69">MR-merged</text><text x="955" y="69">v1.2.0</text><text x="385" y="270">MR-123</text></g>
-</svg>
